@@ -50,3 +50,6 @@ Session.vim
 # Visual Studio
 .vs
 /Content/ConstructionMachines
+/Content/Megascans/3D_Assets
+/Content/Megascans/Surfaces
+/Content/test_Truck/TEST
